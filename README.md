@@ -1,6 +1,5 @@
-# Orange_Summer_Challenge
-Orange_Summer_Challenge
-1. NAME: OWAN AYUK Daisy Ajijia
+
+1. Project Type : Customer_Segmentation_Analysis
 
 2. Libraries Used
 The following Python libraries were used in the analysis:
