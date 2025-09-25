@@ -82,18 +82,3 @@ d. For Low-Usage Customers:
 - Investigate reasons for low engagement
 
 
-5. What Could Be Added with More Time?
-Clustering Implementation: Apply KMeans/PCA to segment customers based on usage (appels_min, data_mo, montant_facture).
-
-Churn Analysis: Predict prepaid users at risk of leaving using machine learning.
-
-Geospatial Visualization: Map regional trends to identify coverage gaps or promotional hotspots.
-
-Time-Based Analysis: Track usage trends over time to spot seasonal patterns.
-- Upselling Opportunities:
-
-Analyze high-usage prepaid customers (data_mo, appels_min) and target them for postpaid upgrades with better value plans.
-
-Customer Segmentation:
-
-Complete the clustering analysis to group customers by usage patterns (e.g., high-data users, frequent callers) for personalized offers.
